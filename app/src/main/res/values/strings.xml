@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hair Length</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hair_count_hint">Number of hairs</string>
+    <string name="hair_loss_per_day">Hairs lost daily</string>
+    <string name="growth_rate_hint">Growth rate (inches per month)</string>
+    <string name="run_simulation">Run Simulation</string>
+    <string name="title_activity_simulation">SimulationActivity</string>
+    <string name="speed">Speed</string>
+</resources>
